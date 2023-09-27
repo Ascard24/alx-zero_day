@@ -1,0 +1,3 @@
+git add up_to_date  # Stage the "up_to_date" file
+git commit -m "How to be up to date in git"  # Commit with the specified message
+git push origin main  # Push the changes to the remote main branch
